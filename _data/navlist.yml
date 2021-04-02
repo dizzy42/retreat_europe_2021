@@ -1,0 +1,15 @@
+- title: Home
+  url_to_match: /
+  url: /
+
+- title: Fees and Requirements
+  url_to_match: /fees.html
+  url: fees
+
+- title: Registration / Payment / Cancellation
+  url_to_match: /registration.html
+  url: registration
+
+- title: Calendar
+  url_to_match: /calendar.html
+  url: calendar
